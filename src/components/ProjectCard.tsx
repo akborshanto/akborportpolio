@@ -25,7 +25,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
       className="bg-white rounded-lg overflow-hidden shadow-lg"
     >
       <img
-        src={image}
+        src='../.././photos/WhatsApp Image 2024-11-30 at 14.36.10_d054c3cd.jpg'
         alt={title}
         className="w-full h-48 object-cover"
       />

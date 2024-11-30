@@ -13,7 +13,7 @@ const Header = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5 }}
           >
-            <Link to="/" className="text-2xl font-bold">Devon Lane</Link>
+            <Link to="/" className="text-2xl font-bold">Akbor Shanto</Link>
           </motion.div>
           
           <nav className="hidden md:flex space-x-8">
@@ -36,7 +36,13 @@ const Header = () => {
             className="bg-purple-600 text-white px-4 py-2 rounded-full flex items-center space-x-2"
           >
             <Download className="w-4 h-4" />
-            <span>Resume</span>
+            <a
+        href="../../../resume/AKBOR SHANTO.pdf"
+        download="Akbor Resume.pdf"
+   
+      >
+         Resume
+      </a>
           </motion.button>
         </div>
       </div>

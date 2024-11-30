@@ -43,7 +43,7 @@ const Hero = () => {
               repeat={Infinity}
             />
             <h1 className="text-5xl lg:text-7xl font-bold mb-6">
-              <GradientText text="Devon Lane" />
+              <GradientText text="AKBOR SHANTO" />
             </h1>
             <p className="text-gray-400 text-xl mb-8 max-w-lg">
               Crafting digital experiences that blend creativity with cutting-edge technology
@@ -86,8 +86,8 @@ const Hero = () => {
                 }}
               />
               <img
-                src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-                alt="Devon Lane"
+                src="../../../photos/WhatsApp Image 2024-11-30 at 14.36.10_d054c3cd.jpg"
+                alt="Akbor Shanto"
                 className="relative rounded-full w-72 h-72 lg:w-96 lg:h-96 object-cover border-4 border-purple-600/50 shadow-2xl shadow-purple-500/25"
               />
             </div>

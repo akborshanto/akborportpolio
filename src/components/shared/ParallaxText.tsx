@@ -10,7 +10,6 @@ import {
 } from "framer-motion";
 import { wrap } from "@motionone/utils";
 
-
 interface ParallaxProps {
   children: string;
   baseVelocity: number;
